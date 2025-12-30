@@ -1,0 +1,7 @@
+{
+  "name": "RoofScale AI: Precision Satellite Estimator",
+  "description": "An automated roof measurement reporting tool integrating Gemini AI and Google Maps satellite imagery for professional-grade spatial analysis and roofing estimates.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
